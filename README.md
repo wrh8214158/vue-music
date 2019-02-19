@@ -24,7 +24,7 @@ npm run build --report
 用nginx作为服务器的话，记得设置各个接口的proxy_pass以及proxy_set_header
 
 
-线上地址：https://qqmusic.wuronghua.com
+线上地址：http://qqmusic.wuronghua.com
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
